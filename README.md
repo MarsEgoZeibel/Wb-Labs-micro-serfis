@@ -1,4 +1,6 @@
 # WB Order Service
+![Uploading Desktop 2025.10.22 - 20.29.46.01.gif…]()
+
 
 Сервис для отображения данных о заказах с использованием NATS Streaming и PostgreSQL.
 
