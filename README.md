@@ -1,5 +1,5 @@
 # WB Order Service
-![Uploading Desktop 2025.10.22 - 20.29.46.01.gif…]()
+![wb](https://github.com/user-attachments/assets/f5e18f16-2b36-4ff8-a3ef-fe2958c59290)
 
 
 Сервис для отображения данных о заказах с использованием NATS Streaming и PostgreSQL.
