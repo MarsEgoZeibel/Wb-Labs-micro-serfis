@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WB Orders</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Система управления заказами WB ЛАБС </h1>
+        <div class="search-container">
+            <span class="search-icon"></span>
+            <input type="text" id="searchInput" placeholder="Введите ID заказа для поиска...">
+            <button id="searchBtn" class="btn btn-primary">
+                <span class="emoji">🔍</span> Найти
+            </button>
+            <button id="resetBtn" class="btn btn-secondary">
+                <span class="emoji">↺</span> Сбросить
+            </button>
+        </div>
+        <div id="ordersList" class="orders-list"></div>
+    </div>
+    <script src="/static/js/orders.js"></script></script>
+</body>
+</html>
